@@ -1,4 +1,4 @@
-# vmall
+# docker-machine-scripts
 
 ## Purpose
 
