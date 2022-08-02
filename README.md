@@ -10,6 +10,8 @@ This repository contains small scripts which can help you create your docker swa
 
 I used this scripts to fill the gaps that I saw in docker-machine just for myself. It helped me provision and managing many docker-machine vms on a single host. 
 
+If you prefer libvirt over VirtualBox (like me) you should check https://github.com/ealtintas/vmall
+
 ## How To
 
 Update dm-settings.sh according to your network/ip configuration. 
