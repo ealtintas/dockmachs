@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Create and manage many multiple docker-machine vms easily
+Create and manage many docker-machine vms easily
 
 ## Description
 
